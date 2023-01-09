@@ -1,3 +1,6 @@
+This repository is archived and development now happens at
+<https://github.com/Chris00/sundials-sys>
+
 # sundials-sys
 
 A barebones `-sys` crate around the [SUNDIALS](https://computation.llnl.gov/projects/sundials) suite of ODE solvers. The system must have CMake (`cmake` dependency) and clang (`bindgen` dependency) already installed for compilation to succeed.
